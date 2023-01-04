@@ -18,6 +18,9 @@
     "workflowRules": {
       "enabled": true
     }
+  },
+  "scanSettingsSAST": {
+    "enableScan": true
   }
 }
 
