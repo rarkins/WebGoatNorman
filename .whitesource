@@ -20,7 +20,8 @@
     }
   },
   "scanSettingsSAST": {
-    "enableScan": true
+    "enableScan": true,
+    "scanPullRequests": true
   }
 }
 
