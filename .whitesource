@@ -4,12 +4,12 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "enableSAST": true,
-    "useMendCheckNames" : true
+    "enableSAST": true
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
-    "displayMode": "diff"
+    "displayMode": "diff",
+    "useMendCheckNames" : true
   },
   "issueSettings": {
     "minSeverityLevel": "LOW",
