@@ -4,7 +4,8 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "enableSAST": true
+    "enableSAST": true,
+    "useMendCheckNames" : true
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
