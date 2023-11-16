@@ -11,7 +11,7 @@
 	</parent>
 
 	<properties>
-		<jacoco.version>0.8.7</jacoco.version>
+		<jacoco.version>0.8.11</jacoco.version>
 	</properties>
 
 	<profiles>
