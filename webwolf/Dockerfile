@@ -1,4 +1,4 @@
-FROM openjdk:11.0.1-jre-slim-stretch
+FROM openjdk:11.0.3-jre-slim-stretch
 
 ARG webwolf_version=v8.0.0-SNAPSHOT
 
